@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ATATIXXX
-- 👀 I’m interested in QA Engineer, js, php, html+css
-- 🌱 I’m currently learning js, php, html+css
+- 👀 I’m interested in QA Engineer
+- 🌱 I’m currently learning Theory of QA
 - 📫 How to reach me https://vk.com/maymayannagod, tg - Kitty_Meow_Me0w
 
 <!---
