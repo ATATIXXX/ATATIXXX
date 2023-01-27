@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ATATIXXX
-- 👀 I’m interested in QA Engineer
+- 👀 I want to become QA Engineer
 - 🌱 I’m currently learning Theory of QA
 - 📫 How to reach me https://vk.com/maymayannagod, tg - Kitty_Meow_Me0w
 
