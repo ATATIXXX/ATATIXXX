@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ANATIXXX
-- 👀 I’m interested in js, php, html+css
+- 👋 Hi, I’m @ATATIXXX
+- 👀 I’m interested in QA Engineer, js, php, html+css
 - 🌱 I’m currently learning js, php, html+css
-- 📫 How to reach me https://vk.com/maymayannagod
+- 📫 How to reach me https://vk.com/maymayannagod, tg - Kitty_Meow_Me0w
 
 <!---
 ANATIXXX/ANATIXXX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
